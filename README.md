@@ -96,12 +96,12 @@ E será aberto uma janela no seu navegador com o Acafood.
 
 - Cadastrar nova comida que você gosta
 <p align="center">
-  <img src="./Imagens/new_plate.png" alt="Tela Login User">
+  <img src="./Imagens/new_plate.png" alt="Cadastro Comida">
 </p>
 
 - Exemplo de nova comida cadastrada
 <p align="center">
-  <img src="./Imagens/new_plate_added.png" alt="Tela Login User">
+  <img src="./Imagens/new_plate_added.png" alt="Comida Cadastrada">
 </p>
 
 - Tela de recomendação
@@ -111,12 +111,12 @@ E será aberto uma janela no seu navegador com o Acafood.
 
 - Tela com as comidas que o usuário cadastrou e removendo uma curtida de comida
 <p align="center">
-  <img src="./Imagens/curtidas_descurtidas.png" alt="Tela Login User">
+  <img src="./Imagens/curtidas_descurtida.png" alt="Comida descurtida">
 </p>
 
 - Tela com as comidas que o usuário cadastrou atualizadas
 <p align="center">
-  <img src="./Imagens/curtidas_atualizada.png" alt="Tela Login User">
+  <img src="./Imagens/curtidas_atualizada.png" alt="Comida curtida">
 </p>
 
 ### Agradecimentos
@@ -127,4 +127,4 @@ Para que esse projeto fosse possível, muitas pessoas foram de suma importância
 - Josemar Rocha, muito obrigado pelo apoio emocional para eu não desistir desse projeto
 - Markus Kaul, muito obrigado pelo seu esforço ao fazer a logo
 
-E a todos os outros envolvidos meu muito obrigado, amo vocês <3
+E a todos os outros envolvidos meu muito obrigado, amo todos vocês <3
