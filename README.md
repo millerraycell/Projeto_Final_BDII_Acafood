@@ -81,12 +81,12 @@ E será aberto uma janela no seu navegador com o Acafood.
 
 - Tela de Login
 <p align="center">
-  <img src="./Imagens/tela-login.png" alt="Tela Login">
+  <img src="./Imagens/tela_login.png" alt="Tela Login">
 </p>
 
 - Tela de Login com usuário Miller, senha 123456
 <p align="center">
-  <img src="./Imagens/tela-login.png" alt="Tela Login User">
+  <img src="./Imagens/tela_login_user.png" alt="Tela Login User">
 </p>
 
 - Dashboard do Acafood
