@@ -1,0 +1,114 @@
+#page-like-food {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../../images/unnamed.jpg") ;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#page-like-food main {
+  margin: auto;
+  margin-top: 80px;
+  text-align: center;
+
+  
+  border: 1px solid black;
+  border-radius: 20px;
+
+  backdrop-filter: blur(5px);
+}
+
+#page-like-food main .top-page{
+  margin-top: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page-like-food main .top-page .go-back{
+  margin-bottom: 10px;
+  
+  width: 40px;
+  height: 40px;
+
+  background: rgb(202, 22, 22);
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: background-color 0.2s;
+
+}
+
+#page-like-food main .top-page .go-back:hover{
+  background-color:rgb(255, 0, 0);
+}
+
+#page-like-food main .top-page img{
+  margin-left: 15px;
+  margin-top: 20px;
+  width:240px; /* you can use % */
+  height: auto;
+}
+
+#page-like-food main .like-food-form {
+  width: 700px;
+
+  padding: 15px 80px;
+
+  overflow: hidden;
+}
+
+#page-like-food main .like-food-form fieldset{
+  border: none;
+}
+
+#page-like-food main .like-food-form fieldset h1{
+  color: black;
+}
+
+#page-like-food main .like-food-form .btnContainer{
+  height: 30px;
+  border: 1px solid #d3e2e5;
+  color: #ffffff;
+  cursor: pointer;
+  width: 150px;
+}
+
+.input-block{
+  margin-top: 10px;
+}
+
+.input-block .text-field{
+  border-radius: 8px;
+  text-align: center; 
+}
+
+.btnContainer{
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.btnContainer button{
+  height: 30px;
+  border: 1px solid #d3e2e5;
+  color: #000000;
+  cursor: pointer;
+  width: 150px;
+}
+
+.btnContainer button .confirm-button{
+  margin-right: 10px;
+  background: #eb0909e3;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 10px;
+}
+
+.btnContainer button .confirm-button:hover{
+  background: #ff1810c4;
+}
